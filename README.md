@@ -1,6 +1,6 @@
 ### Hi 👋, It's Ashraf here.
 
-- 🔭 I’m currently working at [IouPay](https://ioupay.com/) as a Software System Engineer.
+- 🔭 I’m currently working at [IOUPay](https://ioupay.com/) as a Software System Engineer.
 - 🌱 I’m interested in the area of cryptocurrency.
 - 👯 I’m always open to meaningful collaborations.
 - 😄 Pronouns: He/Him/His
